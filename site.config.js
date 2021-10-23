@@ -47,5 +47,8 @@ module.exports = {
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  pageUrlOverrides: { '/about': 'a0812f9ef77b4cffab76de8ed5ce48ca' }
+  pageUrlOverrides: { 
+    '/about': 'a0812f9ef77b4cffab76de8ed5ce48ca',
+    '/about-ja': 'd9be1191f36147fb9dab0418911d904c'
+  }
 }
