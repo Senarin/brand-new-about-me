@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/senarin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://naruka.me
+  * I am senarin (https://keybase.io/senarin) on keybase.
+  * I have a public key with fingerprint A357 054C 14AA 5B60 21A6  526D 4E44 373A 4D0B 7191
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a728e1ce2f446fc3434902b7b0ee319b717b5dfce0c60113f26b6c591cb603740a",
+      "fingerprint": "a357054c14aa5b6021a6526d4e44373a4d0b7191",
+      "host": "keybase.io",
+      "key_id": "4e44373a4d0b7191",
+      "kid": "010187e6ec363f2598aeca526a8448797ace859d5176874c212e9dc5e380e9b2765c0a",
+      "uid": "f5cf256b0c261b4d0303ac71b5105819",
+      "username": "senarin"
+    },
+    "service": {
+      "hostname": "naruka.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1634990864,
+  "expire_in": 157680000,
+  "prev": "866b49aa26d6d733139bd84a3e5d0079200b4a0a877fdc275d8aaf092a30ea5b",
+  "seqno": 307,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJpTFRXFB6WomJYKkzTEhd82lJhoPet972xZSkGCnUpRFMsxul9792B
+V2RmmBnAATRNBFOxraWRQBS6kKapbWUgkiqQLpIJOGVJ6QYISA0RLUkXkOBCAr2P
+2PRP75977rnf+c73nXt9YUGG0IC9u6B5z/qSuoD+q/WlBuRaiqykZLvqocyVVBFe
+3fARFbvcliJNpcwUoAGNICNiWsGMleMEq8JyLCcBRoYywJilJRnSUOZVq4KBIgCa
+Zq2MIAsKL9GKLAAWcgBRJsqq2Qqw0+HUbG5Ci1geAp5TaA4hnqAYGgk8I6gc5jgW
+sohTAaGVaFJYaHfpFUScjFw4SbOTHDlYVuX9D/4/3SLEAlZYgQjiJRFhBZEWSOQ4
+EUoQKVjkJZWnoSBCTmFoBkuqwmNWBFiSGSjwyqru0lU6K68QEkEGCiPQMunGAhYp
+kJZ5GvAiLelAF3baUDEmaBe2IWKUOmYiobNMU7A+V93IIwC5Li1CSSQ2UQ6n3W1X
+7EdIutDtdrjMepnb49Bx5Vi2PGKwyJpNJTMkFWXY6dLsNspME6Ti1nRKWiCPIgFR
+4EwUPurQnNii6Qie2ANk6X1wGaEUBUHmJITIsAUVsizNSrIqcojFvAoAlBgAZA4B
+JEJoVRUG8qqIkBVIDGIBJm9F6Z5KbHbKzAJIhKIC3bBWYEPuUiemjvVcPRRsCAg1
+hDwWqP8uQ+i6yH//nLE5YsXzdBN1cE3p5cm8VL8vcCp9ffefrsf3tPjups/0ml/a
+sEWr2BL3jD/YuP/OD/zoWMTOe4nZv3ki4x/W+r+76c6NHYw90JcDa33jIUJNVHDo
+yOLxeC/9RE+Dv2V2Y/WiBVasO9s08nHiQLzyoDY7sfm11Hfq2isG8ubGssuv7Z1/
+K25ocPeBd/sHhqNerAsbH6pJOQd++ezDt/P/SEn4uz+9uRVbopejN87l5p1vzZgo
+DM/pMLXfX5O8Q5qmNks9a5dzFku7+qy5dfvzqhaG+Dn7wJUEj7V9PG1oUzD7uWu3
+K8Fbceb+6N2l5eEvPfa4Zy/tS86a9AV+2/rVYvNHt56qNJZfaN1sjBrIOGNcaZwQ
+32sI/6I2D7X1XnTMXgi9Hp98nepPmNTuzLzQVpAZEhtwdFOnN6vx7JNaV1vHUn3c
+DNP51yeXY0Zi+m7/mPHB9xGzBuOVqsyfb8WnzzQsLRmf772UWlySY5m1pRyudOeE
+5/u657NefkWr3nY6JNvf6O8epd7f6szDcc6ga1N1/HBQBJ7e5YV0WNFY0fH88saQ
+U2G9nfYT9dsSqtWt97wXvzm/fRrXn1yg0na8Hj/QlXbKOdjubau43fnm7MyJGbtv
+oXHn/O9fh70Bt0ev9RqspodJN8pMxeLBiU83VKW7V24ebqoNijl5qOa5jgf7Xs2c
+ym85d+PXn4Kr/wE6eriz
+=DKeE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/senarin
+
+==================================================================
