@@ -49,6 +49,7 @@ module.exports = {
   // }
   pageUrlOverrides: { 
     '/about': 'a0812f9ef77b4cffab76de8ed5ce48ca',
+    '/about-en': 'dddf297947b04bbf8326aed939e012c8',
     '/about-ja': 'd9be1191f36147fb9dab0418911d904c'
   }
 }
