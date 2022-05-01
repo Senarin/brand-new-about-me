@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'About Naruka',
   domain: 'naruka.me',
-  author: 'Sonoda Naruka',
+  author: 'Hoshino Naruka',
 
   // open graph metadata (optional)
   description: 'About Naruka',
@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: ':)',
 
   // social usernames (optional)
-  twitter: 'SonodaNaruka',
+  twitter: 'NabiYuka_Hoshi',
   github: 'Senarin',
   linkedin: '',
 
